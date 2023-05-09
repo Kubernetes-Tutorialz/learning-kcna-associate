@@ -17,6 +17,6 @@ Kubernetes, also known as K8s, is an open-source system for automating deploymen
 ### Cluster Architecture
 para que seja possivel o melhor entendimento do cluster, vamos entender cada componentes antes que formam a arquitetura.
 
-
+![k8s-architecture](https://github.com/Kubernetes-Tutorialz/learning-kcna-associate/blob/main/images/k8s1.png)
 
 ### Exercises
